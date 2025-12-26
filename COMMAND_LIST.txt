@@ -1,0 +1,85 @@
+﻿ Driizzyy Boost Bot V3 Documentation - Complete Command List
+
+=== BOOSTING COMMANDS (4) ===
+/boost - Main boost command
+/keyspanel - Keys management panel
+/livestock - Live stock display
+/livestockpanel - Stock management panel
+
+=== KEY MANAGEMENT COMMANDS (9) ===
+/new_keys - Create new keys
+/get_keys - Retrieve all keys
+/get_key - Get specific key
+/delete_key - Delete specific key
+/delete_keys - Bulk delete keys
+/get_key_information - Key details
+/get_used_key_information - Used key details
+/key_stats - Key statistics
+/use_key - Use key for boosting (PUBLIC)
+
+=== CONFIGURATION & MANAGEMENT (8) ===
+/configpanel - Advanced config panel
+/securitypanel - Security system panel
+/boostpanel - Boost bot panel
+/banpanel - Ban management panel
+/sellauthpanel - SellAuth integration
+/sellsnpanel - SellSN integration
+/newowner - Add bot owner
+/addadmin_role - Add admin role
+
+=== TICKET SYSTEM (2) ===
+/ticketsystem - Create ticket embed
+/ticketpanel - Manage tickets
+
+=== OAUTH2 & VERIFICATION (2) ===
+/verificationpanel - OAuth2 panel
+/pullmembers - Pull verified members
+
+=== PAYMENT & SUGGESTIONS (3) ===
+/payments - Payment methods
+/suggestionpanel - Manage suggestions
+/suggests - Suggestion submission panel
+
+=== AUTO BOOSTING (3) ===
+/auto_boosting - Auto boost panel
+/auto_boosting_enable - Enable auto boost
+/auto_boosting_disable - Disable auto boost
+
+=== STOCK & ORDERS (5) ===
+/stock - Display stock
+/restock - Add tokens to stock
+/orders - View/manage orders
+/unboost - Remove boosts
+/transfertokens - Send tokens to user
+
+=== VOUCH & COMMUNITY (5) ===
+/vouch - Submit vouch (PUBLIC)
+/vouchpanel - Manage vouches
+/welcomepanel - Manage welcome system
+/announcements - Manage announcements
+/slotpanel - Manage partnership slots
+
+=== TOKEN ONLINER (3) ===
+/onliner - Onliner management panel
+/test_hosting_mode - Test hosting mode
+/debug_onliner - Debug onliner issues
+
+=== UTILITY COMMANDS (8) ===
+/help - Show all commands (PUBLIC)
+/ping - Check bot latency (PUBLIC)
+/purge - Delete messages
+/cra - Customer role assignment
+/failed - Get failed tokens
+/filecleaner - Clean token files
+/advertise - Send DM advertisements
+/sendapplication - Send staff application
+
+=== TOTAL: 52 SLASH COMMANDS ===
+(3 public, 49 admin-only)
+
+ All commands documented in: docs/index.html
+ All features listed in features section
+ Complete file structure with all directories
+ Setup guide with 7 detailed steps
+ API documentation with integrations
+ FAQ section with common questions
